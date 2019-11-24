@@ -5,8 +5,8 @@
 
 <b>Feature Todo List:</b><br>
 	Inside of app and contains<br>
-	#data:<br>
-		##entity: this is the object received from API<br>
+	# data:<br>
+		## entity: this is the object received from API<br>
 		local: this object extends from RealmObject and is necessary to create the database<br>
 		remote: interface to API<br>
 		repository:<br>
