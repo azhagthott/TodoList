@@ -3,11 +3,11 @@ Project structure
 App: Contain everything related to app
 Core: this module contain all the base classes for app
 
-Feature Todo List:
+<b>Feature Todo List:</b>
 	Inside of app and contains
 	data:
-		entity: this is the object recieved from API
-		local: this object extends from RealmObject and is necesary to create the database
+		entity: this is the object received from API
+		local: this object extends from RealmObject and is necessary to create the database
 		remote: interface to API
 		repository:
 			contains an interface to be implemented by usecase
