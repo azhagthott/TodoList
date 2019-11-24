@@ -14,7 +14,7 @@ Core: this module contain all the base classes for app
 			RepositoryImp class to manage responses from server
 			LocalRepository class to manage data to save in local database
 			mapper:
-				EntityToDomainMapper class: mapper that transforns object from entity to domain (model) and vice versa
+				EntityToDomainMapper class: mapper that transforms object from entity to domain (model) and vice versa
 				LocalToDomainMapper class: mapper that transforms objects from local to domain (modal) and vice versa
 	domain:
 		model:
