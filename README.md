@@ -34,7 +34,7 @@ Inside of app and contains:
 
 * dependency injection package, contains module to handle connection to services and repository
 
-## Core
+### Core
 
 this module contain all the base classes for app
 
